@@ -1,0 +1,59 @@
+/***** BODY *****/
+
+body{
+    background-image: url("/root/img/background.jpg");
+    font-family: 'Roboto', sans-serif;
+    color: #484848;
+}
+
+/***** HEADER *****/
+.header{
+    background-color: white;
+    height: 240px;
+    margin: 50px;
+    border-radius: 5px;
+    text-align: center;
+}
+
+#profilePicture{
+    border-radius: 5px;
+    float: inline-end;
+    margin: 10px;
+}
+
+h1{
+    font-size: 40px;
+    display: inline-block;
+    margin-left: 10px;
+}
+
+h2{
+    font-size: 30px;
+    margin-left: 10px;
+}
+
+section{
+    background-color: white;
+    border-radius: 5px;
+    margin: 50px;
+}
+
+h3{
+    font-size: 20px;
+    margin-left: 10px;
+}
+
+h4{
+    font-size: 15px;
+    margin-left: 10px;
+}
+
+p{
+    font-size: 12px;
+    margin-left: 10px;
+}
+
+li{
+    font-size: 12px;
+    margin-left: 10px;
+}
